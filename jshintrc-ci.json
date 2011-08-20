@@ -67,7 +67,8 @@
     "Benchmark",
     "Raphael",
     "Backbone",
-    "Modernizr"
+    "Modernizr",
+    "_gaq"
   ]
 }
 
