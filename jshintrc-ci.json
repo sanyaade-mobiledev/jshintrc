@@ -23,6 +23,7 @@
   "laxbreak"     : false,
   "loopfunc"     : false,
   "mootools"     : true,
+  "multistr"     : true,
   "newcap"       : false,
   "noarg"        : true,
   "node"         : true,
