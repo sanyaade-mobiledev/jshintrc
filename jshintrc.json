@@ -52,6 +52,7 @@
   "supernew"     : false,
   "trailing"     : false,
   "validthis"    : true,
+  "whithstmt"    : true,
   "white"        : false,
   "wsh"          : false,
   "indent"       : 2,
